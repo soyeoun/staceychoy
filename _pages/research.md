@@ -47,7 +47,7 @@ A growing number of companies have voluntarily developed and disclosed pre-earni
 
 
 
-**(4) Analyst Consensus Recommendation and Retail Investor Trading: Evidence from Regression Discontinuity Designs** 
+**(4) Does MiFID II Increase US Retail Investors’ Reliance on Rounded Analyst Consensus Recommendations? Evidence from Regression Discontinuity** 
 (with Albert Mensah and Franco Wong)
 
 <!-- <div style="text-align: center;">
